@@ -1,6 +1,6 @@
 # Keystone Headless MVP
 
-This repo contains a minimal [KeystoneJS] project which sets up a graphQL endpoint to interact with a database.
+This repo contains a minimal [KeystoneJS](https://v5.keystonejs.com) project which sets up a graphQL endpoint to interact with a database.
 
 ### Run the project
 
