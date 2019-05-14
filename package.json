@@ -1,0 +1,14 @@
+{
+  "name": "keystone-headless-mvp",
+  "version": "1.0.0",
+  "description": "A headless GraphQL API using Keystone",
+  "author": "Tim Leslie",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@keystone-alpha/adapter-mongoose": "^1.0.7",
+    "@keystone-alpha/fields": "^6.0.0",
+    "@keystone-alpha/keystone": "^4.0.0",
+    "@keystone-alpha/server": "^5.0.0"
+  }
+}
