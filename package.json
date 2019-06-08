@@ -7,7 +7,7 @@
   "private": true,
   "dependencies": {
     "@keystone-alpha/adapter-mongoose": "^2.0.1",
-    "@keystone-alpha/app-graphql": "6.0.0",
+    "@keystone-alpha/app-graphql": "^6.0.0",
     "@keystone-alpha/fields": "^6.2.0",
     "@keystone-alpha/keystone": "^5.0.0"
   }
